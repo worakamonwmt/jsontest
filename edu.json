@@ -1,0 +1,24 @@
+[
+    {
+      "schoolName": "King Mongkut's University of Technology Thonburi",
+      "program": "Computer Engineering",
+      "time": "2021 - present",
+      "logo": "edu-logo/KMUTT_CI_Semi_Logo_normal-full.jpg",
+      "alt": "kmutt-logo"
+    },
+    {
+      "schoolName": "Princess Sirindhorn's College",
+      "program": "Science, Math, Technology and Environment Program",
+      "time": "2017 - 2020",
+      "logo": "edu-logo/psc.jpg",
+      "alt": "psc-logo"
+    },
+    {
+      "schoolName": "Princess Sirindhorn's College",
+      "program": "Sciences and Mathematics Program",
+      "time": "2013 - 2016",
+      "logo": "edu-logo/psc.jpg",
+      "alt": "psc-logo"
+    }
+  ]
+  

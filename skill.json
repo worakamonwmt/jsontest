@@ -1,0 +1,12 @@
+[
+  {"src": "logo/c.svg", "alt": "C Language"},
+  {"src": "logo/c++.svg", "alt": "C++ Language"},
+  {"src": "logo/python.svg", "alt": "Python Language"},
+  {"src": "logo/html.svg", "alt": "HTML"},
+  {"src": "logo/css.svg", "alt": "CSS"},
+  {"src": "logo/javascript.svg", "alt": "JavaScript"},
+  {"src": "logo/angular.svg", "alt": "Angular"},
+  {"src": "logo/boostrap.svg", "alt": "Bootstrap"},
+  {"src": "logo/github.svg", "alt": "GitHub"},
+  {"src": "logo/react.svg", "alt": "React"}
+]
